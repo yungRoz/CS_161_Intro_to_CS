@@ -1,6 +1,6 @@
  CS_161_Intro_to_CS
 ============= 
-###Assignments for CS 161 Intro to CS###
+### Assignments for CS 161 Intro to CS ###
 
 Course Content:
 * identifiers and primitive data types

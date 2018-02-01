@@ -31,8 +31,8 @@ where F is the Fahrenheit temperature and C is the Celsius temperature.  The pro
 `Please enter a Celsius temperature.
 -10.5
 The equivalent Fahrenheit temperature is:
-13.1
-The file must be named __tempConvert.cpp__.`
+13.1`
+The file must be named __tempConvert.cpp__.
 
  
 

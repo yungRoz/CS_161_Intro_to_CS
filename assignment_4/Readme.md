@@ -17,12 +17,14 @@ The file must be named: __fallDistance.cpp__
 
 Write a void function named smallSort that takes three int parameters __by reference__ and sorts their values into ascending order, so that the first parameter now has the lowest value, the second parameter the middle value, and the third parameter has the highest value.  For example if the main method has:
 
-`
-int a = 14;`
-`int b = -90;`
-`int c = 2;`
-`smallSort(a, b, c);`
-`cout << a << ", " << b << ", " << c << endl;`
+```
+int a = 14;
+int b = -90;
+int c = 2;
+smallSort(a, b, c);
+cout << a << ", " << b << ", " << c << endl;
+```
+
 Then the output should be:
 
 `-90, 2, 14`
